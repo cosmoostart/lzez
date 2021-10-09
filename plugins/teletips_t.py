@@ -5,7 +5,7 @@
 # Changing the code is not allowed! Read GNU AFFERO GENERAL PUBLIC LICENSE: https://github.com/teletips/CountdownTimer-TeLeTiPs/blob/main/LICENSE
                        
   
-START_TEXT = 'Heya,\nMy name is **Countdown Timer** ⏰\n\nI can countdown to your important events in **any group chat**. 🎉\nPowered by Lzez ⏳\n\nHit **❓HELP** to find out more about how to use me.'
+START_TEXT = 'Hello! There is nothing to see. Bot is created by: @LA2IZ'
 
 GROUP_TEXT="""
 👥 <u>**Help & Support Groups**</u>
