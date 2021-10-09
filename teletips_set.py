@@ -28,7 +28,7 @@ TELETIPS_MAIN_MENU_BUTTONS = [
             [
                 InlineKeyboardButton('👥 GROUP', callback_data="GROUP_CALLBACK"),
                 InlineKeyboardButton('📣 CHANNEL', url='https://t.me/teletipsofficialchannel'),
-                InlineKeyboardButton('👨‍💻 CREATOR', url='https://t.me/thakshakar')
+                InlineKeyboardButton('👨‍💻 CREATOR', url='https://t.me/la2iz')
             ],
             [
                 InlineKeyboardButton('➕ CREATE YOUR BOT ➕', callback_data="TUTORIAL_CALLBACK")
