@@ -2,17 +2,6 @@
 <h3 align = center>Powerful Telegram bot to countdown to your important events in any group chat. Live countdown timer.
 <br>(days : hours : minutes : seconds)</h3>
 <p align="center">
-<a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
-<br>
-    <img src="https://img.shields.io/github/stars/teletips/CountdownTimer-TeLeTiPs?style=for-the-badge" alt="Stars">
-    <img src="https://img.shields.io/github/forks/teletips/CountdownTimer-TeLeTiPs?style=for-the-badge" alt="Forks">
-    <img src="https://img.shields.io/github/watchers/teletips/CountdownTimer-TeLeTiPs?style=for-the-badge" alt="Watchers"> 
-<br>
-    <img src="https://img.shields.io/github/license/teletips/CountdownTimer-TeLeTiPs?style=for-the-badge" alt="License">
-    <img src="https://img.shields.io/github/repo-size/teletips/CountdownTimer-TeLeTiPs?style=for-the-badge" alt="Repository Size">
-    <img src="https://img.shields.io/github/contributors/teletips/CountdownTimer-TeLeTiPs?style=for-the-badge" alt="Contributors">
-    <img src="https://img.shields.io/github/issues/teletips/CountdownTimer-TeLeTiPs?style=for-the-badge" alt="Issues">
-</p>  
 
 ## Config Vars
 1. `API_ID` : Telegram API_ID, get it from my.telegram.org/apps
