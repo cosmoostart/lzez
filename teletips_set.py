@@ -26,8 +26,8 @@ TELETIPS_MAIN_MENU_BUTTONS = [
                 InlineKeyboardButton('READ', callback_data="HELP_CALLBACK")
             ],
             [
-                InlineKeyboardButton('📣 CHANNEL', url='https://t.me/llZ3Z'),
-                InlineKeyboardButton('🙂CREATOR', url='https://t.me/LA2IZZ')
+                InlineKeyboardButton('🍾 CHANNEL', url='https://t.me/llZ3Z'),
+                InlineKeyboardButton('🐞 CREATOR', url='https://t.me/LA2IZ')
             ],
         ]
 
@@ -100,16 +100,12 @@ async def callback_query(client: Client, query: CallbackQuery):
     elif query.data=="START_CALLBACK":
         TELETIPS_START_BUTTONS = [
             [
-                InlineKeyboardButton('❓ HELP', callback_data="HELP_CALLBACK")
+                InlineKeyboardButton('HELP💭', callback_data="HELP_CALLBACK")
             ],
-            [
-                InlineKeyboardButton('👥 GROUP', callback_data="GROUP_CALLBACK"),
-                InlineKeyboardButton('📣 CHANNEL', url='https://t.me/teletipsofficialchannel'),
-                InlineKeyboardButton('👨‍💻 CREATOR', url='https://t.me/thakshakar')
+            [  
+                InlineKeyboardButton('🍾 CHANNEL', url='https://t.me/llZ3Z'),
+                InlineKeyboardButton('🧁 CREATOR', url='https://t.me/LA2IZ')
             ],
-            [
-                InlineKeyboardButton('➕ CREATE YOUR BOT ➕', callback_data="TUTORIAL_CALLBACK")
-            ]
         ]
         reply_markup = InlineKeyboardMarkup(TELETIPS_START_BUTTONS)
         try:
